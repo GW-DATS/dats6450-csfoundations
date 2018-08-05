@@ -4,20 +4,13 @@ Repo for section 10 of the Fall 2018 DATS 6450 Computer Science Foundations clas
 
 ### Course & Contact Information:
 
-**Instructor Names:** Michael Arango & Brent Skoumal
-
-**Term:** Fall 2018
-
-**Location:** Corcoran 103
-
-**Time:** Wednesday, 6:10 pm - 8:40 pm
-
-**E-mail:** mikearango@gwmail.gwu.edu & brentskoumal@gwu.edu
-
-**Office hours:** TBA
-
-**Teaching Assistant:** TBA
-
+**Instructor Names:** Michael Arango & Brent Skoumal \
+**Term:** Fall 2018 \
+**Location:** Corcoran 103 \
+**Time:** Wednesday, 6:10 pm - 8:40 pm \
+**E-mail:** mikearango@gwmail.gwu.edu & brentskoumal@gwu.edu \
+**Office hours:** TBA \
+**Teaching Assistant:** TBA 
 ###  Course Description:
 
 [] **Fill in Course Description here**
@@ -35,12 +28,12 @@ This is a tentative schedule, and subject to change. Please check here regularly
 
 | Week # |Date   | Topics | Readings | Assignments |
 | :----: |:----: |:-------|:---------|:------------|
-| **1**  | 08/29 | Course Intro, Syllabus review, Data Science Industry Q&A |  | **TBD** |
-| **2**  | 09/05 | Using tf-idf for classification and clustering           |  | **TBD** |
-| **3**  | 09/12 | Introduction to tensorflow, logistic regression review   |  | **TBD** |
-| **4**  | 09/19 | Feed forward networks *(Quiz 1)*                         |  | **TBD** |
-| **5**  | 09/26 | Word2vec, Glove representations                          |  | **TBD** |
-| **6**  | 10/03 | Classification, other word representations               |  | **TBD** |
+| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD** |
+| **2**  | 09/05 | Tech stack intro/setup, Intro to Git/GitHub              |  | **Intro to Git for DATS on DataCamp** |
+| **3**  | 09/12 | Review Git, Computer Architecture                        |  | **Intro to Git for DATS on DataCamp** |
+| **4**  | 09/19 | Operating System Overview and *(Quiz 1)*                 |  | **TBD** |
+| **5**  | 09/26 | Intro to Shell programming                               |  | **TBD** |
+| **6**  | 10/03 | Intro to Shell programming                               |  | **TBD** |
 | **7**  | 10/10 | Recurrent Neural Networks, LSTM *(Quiz 2)* |             |  | **TBD** |
 | **8**  | 10/17 | Dependency Parsing  |    | SLP: Chapter 10 |  |
 | **9**  | 10/24 | Language models *(Quiz 3)* |    | | |
