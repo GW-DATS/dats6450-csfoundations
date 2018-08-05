@@ -29,7 +29,7 @@ This is a tentative schedule and is subject to change. Please check here regular
 | **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  |                |      |
 | **2**  | 09/05 | Tech stack intro/setup, Intro to Git/GitHub              |  | **HW 1 - Git** |      |
 | **3**  | 09/12 | Review Git, Computer Architecture                        |  | **HW 1 - Git** |      |
-| **4**  | 09/19 | Operating System Overview and *Quiz 1*                   |  | **TBD**        | HW 1 |
+| **4**  | 09/19 | **Quiz 1** & Operating System Overview                   |  | **TBD**        | HW 1 |
 | **5**  | 09/26 | Intro to Shell programming                               |  | **TBD**        |      |
 | **6**  | 10/03 | Shell programming continued                              |  | **TBD**        |      |
 | **7**  | 10/10 | SSH/SCP & Cloud/Networking Fundamentals                  |  | **TBD**        |      |
