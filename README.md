@@ -63,11 +63,15 @@ Class slack channel
  Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback in the next class session. 
  
 
-#### "Quizzes": 
-Five "quizzes" will be given to ensure students are gaining knowledge - quizzes are put in quotations because these will be mini-assignments completable in class, with potential help from outside resources.
+#### Quizzes: 
+
+- [ ] **Fill in number of quizzes here for X**
+
+There will be **X** quizzes given along to ensure students are engaging with the course materials and to provide students with more frequent feedback.
 
 ### Grading:
-**TBD**
+
+- [ ] **Put Grading rubric here**
 
 
 #### Grading Scale:
