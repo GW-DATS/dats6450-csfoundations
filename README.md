@@ -1,7 +1,5 @@
 # DATS 6450 - Computer Science Foundations
 
-Repo for section 10 of the Fall 2018 DATS 6450 Computer Science Foundations class.
-
 ### Course & Contact Information:
 
 **Instructor Names:** Michael Arango & Brent Skoumal \
