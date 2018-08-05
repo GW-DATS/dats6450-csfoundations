@@ -45,9 +45,14 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 ### Textbooks and Course Resources:
 
-Class slack channel 
-- [ ] **Make course slack channel**
+We will leverage Slack in this course tech stack to: 
+- familiarize students with a platform used by data science teams in industry
+- increase access to the professors and TA
+- quickly disseminate files
+- foster a collaborative environment for students to work together 
+- hold virtual office hours (if necessary)
 
+- [x] **Make course slack channel**
 - [ ] **Add course reference materials here**
 
 ### Additional Resources:
