@@ -33,17 +33,17 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **3**  | 09/12 | Review Git, Computer Architecture                        |  | **Intro to Git for DATS on DataCamp** |
 | **4**  | 09/19 | Operating System Overview and *(Quiz 1)*                 |  | **TBD** |
 | **5**  | 09/26 | Intro to Shell programming                               |  | **TBD** |
-| **6**  | 10/03 | Intro to Shell programming                               |  | **TBD** |
-| **7**  | 10/10 | Recurrent Neural Networks, LSTM *(Quiz 2)* |             |  | **TBD** |
-| **8**  | 10/17 | Dependency Parsing  |    | SLP: Chapter 10 |  |
-| **9**  | 10/24 | Language models *(Quiz 3)* |    | | |
-| **10** | 10/31 | Seq2Seq,  Attention |    | | |
-| **11** | 11/7  | Translation |    | | *Project 1 due* |
-| **12** | 11/14 | Convolutional Neural Networks  *(Quiz 4)* |    | |  *Project 2 assigned* |
-| **13** | 11/21 | **Thanksgiving Break (No Class)**||||
-| **14** | 11/28 | QA Systems I |    | | |
-| **15** | 12/05 | QA Systems II  *(Quiz 5)*  |   | | *Project 2 due during finals week*|
-| **16** | TBD | **Final Exam**||||
+| **6**  | 10/03 | Shell programming continued                              |  | **TBD** |
+| **7**  | 10/10 | SSH/SCP Cloud/Networking Fundamentals                    |  | **TBD** |
+| **8**  | 10/17 | **Midterm 1** & Anaconda/Conda/Packages                  |  | **TBD** |
+| **9**  | 10/24 | Python Programming Principles 1                          |  | **TBD** | 
+| **10** | 10/31 | Python Programming Principles 2                          |  | **TBD** | 
+| **11** | 11/7  | Python Programming Principles 3                          |  | **TBD** |
+| **12** | 11/14 | Python Programming Principles 4                          |  | **TBD** |
+| **13** | 11/21 | **Thanksgiving Break (No Class)**                        |  | **TBD** |
+| **14** | 11/28 | API Design                                               |  | **TBD** |
+| **15** | 12/05 | Big-O Notation, Algorithmic Complexity                   |  | **TBD** |
+| **16** | TBD   | **Final Exam**                                           |  | **TBD** |
 
 ### Textbooks and Course Resources:
 Class slack channel - [] **Make course slack channel**
@@ -60,20 +60,15 @@ Class slack channel - [] **Make course slack channel**
  These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
  
 #### Homework Assignments:
- Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback at the next class session. 
+ Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback in the next class session. 
  
-#### Class Projects: 
-Two group projects will be assigned over the semester to give students practice on applying NLP principles and methods to various problems. Students will also build teamwork, communication, and technical skills.
 
 #### "Quizzes": 
 Five "quizzes" will be given to ensure students are gaining knowledge - quizzes are put in quotations because these will be mini-assignments completable in class, with potential help from outside resources.
 
 ### Grading:
-Your final grade will be determined by:
- - Assignments (25%) 
- - Quizzes (25%) 
- - Project I (25%) 
- - Project II (25%)
+**TBD**
+
 
 #### Grading Scale:
 
