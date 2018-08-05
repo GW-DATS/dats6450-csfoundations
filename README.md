@@ -22,26 +22,26 @@
  - [ ] - **Fill in outcomes**
 
 ### Tentative Schedule:
-This is a tentative schedule, and subject to change. Please check here regularly for updates.
+This is a tentative schedule and is subject to change. Please check here regularly for updates.
 
-| Week # |Date   | Topics | Readings | Assignments |
-| :----: |:----: |:-------|:---------|:------------|
-| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD** |
-| **2**  | 09/05 | Tech stack intro/setup, Intro to Git/GitHub              |  | **Intro to Git for DATS on DataCamp** |
-| **3**  | 09/12 | Review Git, Computer Architecture                        |  | **Intro to Git for DATS on DataCamp** |
-| **4**  | 09/19 | Operating System Overview and *(Quiz 1)*                 |  | **TBD** |
-| **5**  | 09/26 | Intro to Shell programming                               |  | **TBD** |
-| **6**  | 10/03 | Shell programming continued                              |  | **TBD** |
-| **7**  | 10/10 | SSH/SCP & Cloud/Networking Fundamentals                  |  | **TBD** |
-| **8**  | 10/17 | **Midterm 1** & Anaconda/Conda/Packages                  |  | **TBD** |
-| **9**  | 10/24 | Python Programming Principles 1                          |  | **TBD** | 
-| **10** | 10/31 | Python Programming Principles 2                          |  | **TBD** | 
-| **11** | 11/7  | Python Programming Principles 3                          |  | **TBD** |
-| **12** | 11/14 | Python Programming Principles 4                          |  | **TBD** |
-| **13** | 11/21 | **Thanksgiving Break (No Class)**                        |  | **TBD** |
-| **14** | 11/28 | API Design                                               |  | **TBD** |
-| **15** | 12/05 | Big-O Notation, Algorithmic Complexity                   |  | **TBD** |
-| **16** | TBD   | **Final Exam**                                           |  | **TBD** |
+| Week # |Date   | Topics | Readings | Assignments | Due    | 
+| :----: |:----: |:-------|:---------|:------------| :----- |
+| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  |                |      |
+| **2**  | 09/05 | Tech stack intro/setup, Intro to Git/GitHub              |  | **HW 1 - Git** |      |
+| **3**  | 09/12 | Review Git, Computer Architecture                        |  | **HW 1 - Git** |      |
+| **4**  | 09/19 | Operating System Overview and *Quiz 1*                   |  | **TBD**        | HW 1 |
+| **5**  | 09/26 | Intro to Shell programming                               |  | **TBD**        |      |
+| **6**  | 10/03 | Shell programming continued                              |  | **TBD**        |      |
+| **7**  | 10/10 | SSH/SCP & Cloud/Networking Fundamentals                  |  | **TBD**        |      |
+| **8**  | 10/17 | **Midterm 1** & Anaconda/Conda/Packages                  |  | **TBD**        |      |
+| **9**  | 10/24 | Python Programming Principles 1                          |  | **TBD**        |      |
+| **10** | 10/31 | Python Programming Principles 2                          |  | **TBD**        |      |
+| **11** | 11/7  | Python Programming Principles 3                          |  | **TBD**        |      |
+| **12** | 11/14 | Python Programming Principles 4                          |  | **TBD**        |      |
+| **13** | 11/21 | **Thanksgiving Break (No Class)**                        |  | **TBD**        |      |
+| **14** | 11/28 | API Design                                               |  | **TBD**        |      |
+| **15** | 12/05 | Big-O Notation, Algorithmic Complexity                   |  | **TBD**        |      |
+| **16** | TBD   | **Final Exam**                                           |  | **TBD**        |      |
 
 ### Textbooks and Course Resources:
 
