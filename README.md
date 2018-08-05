@@ -13,15 +13,15 @@ Repo for section 10 of the Fall 2018 DATS 6450 Computer Science Foundations clas
 **Teaching Assistant:** TBA 
 ###  Course Description:
 
-[] **Fill in Course Description here**
+- [ ] **Fill in Course Description here**
 
 ### Learning Outcomes:
 
  As a result of completing this course, students will be able to:
- - [] - **Fill in**
- - [] - **Fill in**
- - [] - **Fill in**
- - [] - **Fill in**
+ - [ ] - **Fill in outcomes**
+ - [ ] - **Fill in outcomes**
+ - [ ] - **Fill in outcomes**
+ - [ ] - **Fill in outcomes**
 
 ### Tentative Schedule:
 This is a tentative schedule, and subject to change. Please check here regularly for updates.
@@ -34,7 +34,7 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **4**  | 09/19 | Operating System Overview and *(Quiz 1)*                 |  | **TBD** |
 | **5**  | 09/26 | Intro to Shell programming                               |  | **TBD** |
 | **6**  | 10/03 | Shell programming continued                              |  | **TBD** |
-| **7**  | 10/10 | SSH/SCP Cloud/Networking Fundamentals                    |  | **TBD** |
+| **7**  | 10/10 | SSH/SCP & Cloud/Networking Fundamentals                  |  | **TBD** |
 | **8**  | 10/17 | **Midterm 1** & Anaconda/Conda/Packages                  |  | **TBD** |
 | **9**  | 10/24 | Python Programming Principles 1                          |  | **TBD** | 
 | **10** | 10/31 | Python Programming Principles 2                          |  | **TBD** | 
@@ -46,13 +46,15 @@ This is a tentative schedule, and subject to change. Please check here regularly
 | **16** | TBD   | **Final Exam**                                           |  | **TBD** |
 
 ### Textbooks and Course Resources:
-Class slack channel - [] **Make course slack channel**
 
-[] **Add course reference materials here**
+Class slack channel 
+- [ ] **Make course slack channel**
+
+- [ ] **Add course reference materials here**
 
 ### Additional Resources:
 
-[] **Add some resources here**
+- [ ] **Add some resources here**
 
 ### Learning Assignments:
 
