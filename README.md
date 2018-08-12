@@ -6,12 +6,12 @@
 **Term:** Fall 2018 \
 **Location:** Corcoran 103 \
 **Time:** Wednesday, 6:10 pm - 8:40 pm \
-**E-mail:** mikearango@gwmail.gwu.edu & brentskoumal@gwu.edu \
+**E-mail:** mikearango@email.gwu.edu & brentskoumal@email.gwu.edu \
 **Office hours:** TBA \
 **Teaching Assistant:** TBA 
 ###  Course Description:
 
-- [ ] **Fill in Course Description here**
+- The purpose of this course is to provide students with an understanding of CS principles that will be required to work in the Data Science industry. The course was designed to enhance practical skills for Data Scientists entering the industry.
 
 ### Learning Outcomes:
 
@@ -52,12 +52,13 @@ We will leverage Slack in this course tech stack to:
 - foster a collaborative environment for students to work together 
 - hold virtual office hours (if necessary)
 
-- [x] **Make course slack channel**
+
 - [ ] **Add course reference materials here**
 
 ### Additional Resources:
 
-- [ ] **Add some resources here**
+- **Course Slack Channel:**
+ - [https://gwu-csf-f18.slack.com/](https://gwu-csf-f18.slack.com/)
 
 ### Learning Assignments:
 
