@@ -8,7 +8,8 @@
 **Time:** Wednesday, 6:10 pm - 8:40 pm \
 **E-mail:** mikearango@email.gwu.edu & brentskoumal@email.gwu.edu \
 **Office hours:** TBA \
-**Teaching Assistant:** TBA 
+**Teaching Assistant:** Christopher Broll (cjbroll@gwmail.gwu.edu)
+
 ###  Course Description:
 
 - The purpose of this course is to provide students with an understanding of CS principles that will be required to work in the Data Science industry. The course was designed to enhance practical skills for Data Scientists entering the industry.
@@ -45,6 +46,9 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 ### Textbooks and Course Resources:
 
+**Course Slack Channel:**
+- [https://gwu-csf-f18.slack.com/](https://gwu-csf-f18.slack.com/)
+
 We will leverage Slack in this course tech stack to: 
 - familiarize students with a platform used by data science teams in industry
 - increase access to the professors and TA
@@ -53,12 +57,6 @@ We will leverage Slack in this course tech stack to:
 - hold virtual office hours (if necessary)
 
 
-- [ ] **Add course reference materials here**
-
-### Additional Resources:
-
-- **Course Slack Channel:**
- - [https://gwu-csf-f18.slack.com/](https://gwu-csf-f18.slack.com/)
 
 ### Learning Assignments:
 
