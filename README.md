@@ -12,7 +12,7 @@
 
 ###  Course Description:
 
-- The purpose of this course is to provide students with an understanding of CS principles that will be required to work in the Data Science industry. The course was designed to enhance practical skills for Data Scientists entering the industry.
+- The purpose of this course is to provide students with an understanding of CS principles which will be useful for work in the Data Science industry. 
 
 ### Learning Outcomes:
 
