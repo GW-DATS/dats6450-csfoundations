@@ -8,7 +8,7 @@
 **Time:** Wednesday, 6:10 pm - 8:40 pm \
 **E-mail:** mikearango@email.gwu.edu & brentskoumal@email.gwu.edu \
 **Office hours:** TBA \
-**Teaching Assistant:** Christopher Broll (cjbroll@gwmail.gwu.edu)
+**Teaching Assistant:** 
 
 ###  Course Description:
 
