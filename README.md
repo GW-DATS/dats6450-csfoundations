@@ -114,3 +114,7 @@ For additional information see: disabilitysupport.gwu.edu/
 *MENTAL HEALTH SERVICES  202-994-5300*
 The University's Mental Health Services offers 24/7 assistance and referral to address students' personal, social, career, and study skills problems. Services for students include: crisis and emergency mental health consultations confidential assessment, counseling services (individual and small group), and referrals. 
 For additional information see: counselingcenter.gwu.edu/ 
+
+#### DataCamp
+
+“This class is supported by DataCamp, the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.”
