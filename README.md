@@ -27,12 +27,12 @@ This is a tentative schedule and is subject to change. Please check here regular
 
 | Week # |Date   | Topics | Readings | Assignments | Due    | 
 | :----: |:----: |:-------|:---------|:------------| :----- |
-| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  |                |      |
-| **2**  | 09/05 | Tech stack intro/setup, Intro to Git/GitHub              |  | **HW 1 - Git** |      |
-| **3**  | 09/12 | Review Git, Computer Architecture                        |  | **HW 1 - Git** |      |
-| **4**  | 09/19 | **Quiz 1** & Operating System Overview                   |  | **TBD**        | HW 1 |
-| **5**  | 09/26 | Intro to Shell programming                               |  | **TBD**        |      |
-| **6**  | 10/03 | Shell programming continued                              |  | **TBD**        |      |
+| **1**  | 08/29 | Course intro, syllabus review, data science industry Q&A |  | **TBD**        |      |
+| **2**  | 09/05 | Tech stack intro/setup, Operating System Overview        |  | **TBD**        |      |
+| **3**  | 09/12 | Computer Architecture, intro to Shell programming        |  | **TBD**        |      |
+| **4**  | 09/19 | **Quiz 1** & Shell Programming continued                 |  | **TBD**        |      |
+| **5**  | 09/26 | Intro to Git/GitHub                                      |  | **TBD**        |      |
+| **6**  | 10/03 | Git/Github Continued                                     |  | **TBD**        |      |
 | **7**  | 10/10 | SSH/SCP & Cloud/Networking Fundamentals                  |  | **TBD**        |      |
 | **8**  | 10/17 | **Midterm 1** & Anaconda/Conda/Packages                  |  | **TBD**        |      |
 | **9**  | 10/24 | Python Programming Principles 1                          |  | **TBD**        |      |
@@ -49,14 +49,17 @@ This is a tentative schedule and is subject to change. Please check here regular
 **Course Slack Channel:**
 - [https://gwu-csf-f18.slack.com/](https://gwu-csf-f18.slack.com/)
 
-We will leverage Slack in this course tech stack to: 
+We will leverage Slack in this course to: 
 - familiarize students with a platform used by data science teams in industry
 - increase access to the professors and TA
 - quickly disseminate files
 - foster a collaborative environment for students to work together 
 - hold virtual office hours (if necessary)
 
+**DataCamp:**
+- [https://www.datacamp.com/enterprise/cs-foundations-for-data-science](https://www.datacamp.com/enterprise/cs-foundations-for-data-science)
 
+This class is supported by [DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
 
 ### Learning Assignments:
 
@@ -114,7 +117,3 @@ For additional information see: disabilitysupport.gwu.edu/
 *MENTAL HEALTH SERVICES  202-994-5300*
 The University's Mental Health Services offers 24/7 assistance and referral to address students' personal, social, career, and study skills problems. Services for students include: crisis and emergency mental health consultations confidential assessment, counseling services (individual and small group), and referrals. 
 For additional information see: counselingcenter.gwu.edu/ 
-
-#### DataCamp
-
-This class is supported by [DataCamp](https://www.datacamp.com/), the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.
