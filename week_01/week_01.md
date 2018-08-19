@@ -6,7 +6,6 @@ In the first week of the course, we will be doing the following:
 - Review the Course Syllabus and Answer Questions
 - Data Science in Industry Q&A 
 
-
 # Introductions
 
 Questions to ask: 
@@ -19,5 +18,5 @@ Questions to ask:
 # Course Expectations
 
 - Topics we are planning on covering
-- Wiggle room near the end to adjust and requested special topics
+- Wiggle room near the end to adjust and add requested special topics
 - Possible guest lectures from industry expert
