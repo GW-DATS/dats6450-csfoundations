@@ -2,13 +2,12 @@
 
 ### Course & Contact Information:
 
-**Instructor Names:** Michael Arango & Brent Skoumal \
+**Instructor Names:** Michael Arango (mikearango@email.gwu.edu) & Brent Skoumal (brentskoumal@email.gwu.edu) \
 **Term:** Fall 2018 \
 **Location:** Corcoran 103 \
 **Time:** Wednesday, 6:10 pm - 8:40 pm \
-**E-mail:** mikearango@email.gwu.edu & brentskoumal@email.gwu.edu \
 **Office hours:** TBA \
-**Teaching Assistant:** 
+**Teaching Assistant:** Christian Cleber Masdeval Braz (masdeval@gwmail.gwu.edu)
 
 ###  Course Description:
 
@@ -16,11 +15,7 @@
 
 ### Learning Outcomes:
 
- As a result of completing this course, students will be able to:
- - [ ] - **Fill in outcomes**
- - [ ] - **Fill in outcomes**
- - [ ] - **Fill in outcomes**
- - [ ] - **Fill in outcomes**
+ After completing this course, students will be able to understand basic computer architecture, effectively navigate the command line, write shell scripts, access and manage remote machines with ssh/scp, initialize and manage a git repository from the terminal, build a python package, write reproducible (PEP-8 compatible/OOP) python code, debug code with error handling, manage virual environments from the command line, build a simple RESFUL API, and understand Big-O notation & time complexity.
 
 ### Tentative Schedule:
 This is a tentative schedule and is subject to change. Please check here regularly for updates.
@@ -67,18 +62,16 @@ This class is supported by [DataCamp](https://www.datacamp.com/), the most intui
  These assessments will be used to check learning and give feedback on areas for improvement. Reading prior to class, class attendance, and participation in activities are essential for success on this part of the course.
  
 #### Homework Assignments:
- Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard. We will work to provide feedback in the next class session. 
+ Details on requirements will be given during class periods. Most assignments will be due the next class period and can be submitted via blackboard or datacamp. We will work to provide feedback in the next class session. 
  
 
 #### Quizzes: 
 
-- [ ] **Fill in number of quizzes here for X**
-
-There will be **X** quizzes given along to ensure students are engaging with the course materials and to provide students with more frequent feedback.
+- TBD
 
 ### Grading:
 
-- [ ] **Put Grading rubric here**
+- TBD
 
 
 #### Grading Scale:
