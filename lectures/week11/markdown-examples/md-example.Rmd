@@ -1,0 +1,117 @@
+---
+title: "md example"
+author: "Michael Arango"
+date: "11/6/2018"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Problem 3
+
+A simple linear regression model is given by $Y = \beta_{0} + \beta_{1}X + \epsilon$, where $\epsilon \sim N(0,\sigma^{2})$.
+
+a. Use the method of least squares, as discussed in class to derive the least squares estimators for $\beta_{0}$ and $\beta_{1}$. The multiple regression model was derived in class. 
+
+### Solution
+
+Suppose we have $i = 1, ..., n$ data points where $x_{1}, ..., x_{n}$ is the independent variable and $y_{1}, ..., y_{n}$ is the dependent variable. We want $y_{i} = \beta_{0} + \beta_{1}x_{i} + \epsilon_{i}$ where $\epsilon_{i} \sim N(0, \sigma^{2})$, but we obtain $\hat{y}_{i} = \hat{\beta_{0}} + \hat{\beta_{1}}x_{i} + \epsilon_{i}$. We need to try to minimize the sum of the squared residuals defined as follows: 
+
+\begin{equation}
+L = \sum_{i = 1}^{n}(y_{i} - \hat{y}_{i})^{2}
+\end{equation}
+
+We want to minimize this function $L$ with respect to $\beta_{0}$ and $\beta_{1}$. So, our problem becomes 
+
+\begin{equation}
+\min_{\hat{\beta_{0}}, \hat{\beta_{1}}} \sum_{i = 1}^{n}(y_{i} - \hat{y}_{i})^{2}
+\end{equation}
+
+which simplifies to 
+
+\begin{equation}
+\min_{\hat{\beta_{0}}, \hat{\beta_{1}}} \sum_{i = 1}^{n}(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i})^{2}
+\end{equation}
+
+We get our key equations by taking the partial derivative with respect to each of the parameters we want to minimize and setting them equal to zero: 
+
+\begin{align}
+\frac{\partial L}{\partial \hat{\beta_{0}}} &= \sum_{i = 1}^{n}-2(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) = 0 \\
+\frac{\partial L}{\partial \hat{\beta_{0}}} &= \sum_{i = 1}^{n}-2x_{i}(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) = 0
+\end{align}
+
+Solving (4), we find that: 
+
+\begin{align}
+\sum_{i = 1}^{n}-2(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) &= 0 \\
+\sum_{i = 1}^{n}(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) &= 0 \\
+\text{Recall that } \sum_{i = 1}^{n}y_{i} = n\bar{y} \text{ since } \frac{\sum_{i = 1}^{n}y_{i}}{n} &= \bar{y}\\
+n\bar{y} - n\hat{\beta_{0}} - n\hat{\beta_{1}}\bar{x} &= 0 \\ 
+n\hat{\beta_{0}} &=  n\bar{y} - n\hat{\beta_{1}}\bar{x} \\ 
+\hat{\beta_{0}} &= \bar{y} - \hat{\beta_{1}}\bar{x}
+\end{align}
+
+Solving (5), we see that:
+
+\begin{align}
+\sum_{i = 1}^{n} -2x_{i}(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) &= 0 \\
+\sum_{i = 1}^{n} x_{i}(y_{i} - \hat{\beta_{0}} - \hat{\beta_{1}}x_{i}) &= 0 \\
+\sum_{i = 1}^{n} x_{i}y_{i} - \sum_{i = 1}^{n} \hat{\beta_{0}}x_{i} - \sum_{i = 1}^{n} \hat{\beta_{1}}x_{i}^{2} &= 0 \\
+\sum_{i = 1}^{n} x_{i}y_{i} - \sum_{i = 1}^{n} (\bar{y} - \hat{\beta_{1}}\bar{x})x_{i} - \sum_{i = 1}^{n} \hat{\beta_{1}}x_{i}^{2} &= 0 \\
+\sum_{i = 1}^{n} x_{i}y_{i} - \bar{y}\sum_{i = 1}^{n} x_{i} + \hat{\beta_{1}}\bar{x}\sum_{i = 1}^{n} x_{i} - \sum_{i = 1}^{n} \hat{\beta_{1}}x_{i}^{2} &= 0 \\
+\sum_{i = 1}^{n} x_{i}y_{i} - n\bar{x}\bar{y} + n\hat{\beta_{1}}\bar{x}^{2} - \hat{\beta_{1}}\sum_{i = 1}^{n} x_{i}^{2} &= 0 \\
+\sum_{i = 1}^{n} \hat{\beta_{1}}x_{i}^{2} - n\hat{\beta_{1}}\bar{x}^{2} &= \sum_{i = 1}^{n} x_{i}y_{i} - n\bar{x}\bar{y} \\
+\hat{\beta_{1}} (\sum_{i = 1}^{n} x_{i}^{2} - n\bar{x}^{2}) &= \sum_{i = 1}^{n} x_{i}y_{i} - n\bar{x}\bar{y} \\ 
+\hat{\beta_{1}} &= \frac{\sum_{i = 1}^{n} x_{i}y_{i} - n\bar{x}\bar{y}}{\sum_{i = 1}^{n} x_{i}^{2} - n\bar{x}^{2}}
+\end{align}
+
+Using the fact that 
+\[
+\sum_{i = 1}^{n} (x_{i} - \bar{x})(y_{i} - \bar{y}) = \sum_{i = 1}^{n} x_{i}y_{i} - n\bar{x}\bar{y}
+\]
+and 
+\[
+\sum_{i = 1}^{n} (x_{i} - \bar{x})^{2} = \sum_{i = 1}^{n} x_{i}^{2} - n\bar{x}^{2}
+\]
+we can rewrite this in the difference of means form: 
+\[
+\hat{\beta_{1}} = \frac{\sum_{i = 1}^{n} (x_{i} - \bar{x})(y_{i} - \bar{y})}{\sum_{i = 1}^{n} (x_{i} - \bar{x})^{2}}
+\]
+
+b. Now, forcing the intercept coefficient to be zero, re-derive the least squares
+estimator for the slope. Under what circumstances do you think it would be useful?
+
+### Solution 
+
+By forcing the intercept to zero, we want to model $y_{i} = \beta x_{i} + \epsilon_{i}$ where $\epsilon_{i} \sim N(0, \sigma^{2})$, but we obtain $\hat{y}_{i} = \hat{\beta} x_{i} + \epsilon_{i}$. This time, we are minimizing the function 
+
+\begin{equation}
+L = \sum_{i = 1}^{n} (y_{i} - \hat{\beta} x_{i})^{2}
+\end{equation}
+
+We want to minimize this function $L$ with respect to $\beta$. So, our problem becomes 
+
+\begin{equation}
+\min_{\hat{\beta}} \sum_{i = 1}^{n} (y_{i} - \hat{\beta} x_{i})^{2}
+\end{equation}
+
+Taking the derivative and setting the equation equal to zero, we have our first order condition: 
+
+\begin{equation}
+\frac{dL}{d\hat{\beta_{0}}} = \sum_{i = 1}^{n} -2x_{i}(y_{i} - \hat{\beta} x_{i}) = 0
+\end{equation}
+
+Solving (23), we find
+
+\begin{align}
+\sum_{i = 1}^{n} x_{i}(y_{i} - \hat{\beta} x_{i}) &= 0 \\
+\sum_{i = 1}^{n} x_{i}y_{i} - \hat{\beta} \sum_{i = 1}^{n} x_{i}^{2} &= 0 \\
+\hat{\beta} \sum_{i = 1}^{n} x_{i}^{2} &= \sum_{i = 1}^{n} x_{i}y_{i} \\
+\hat{\beta} &= \frac{\sum_{i = 1}^{n} x_{i}y_{i}}{\sum_{i = 1}^{n} x_{i}^{2}} \\
+\end{align}
+
+Most of the time it does not make sense to use a model without an intercept in practice, but it can be helpful if there are physical constraints on the variables. For example, if we want to use the speed a car is traveling to predict the stopping distance of the car, then it might make sense to force the intercept coefficient to zero.
