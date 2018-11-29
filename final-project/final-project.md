@@ -39,4 +39,4 @@ Each team member should, at a minimum, meet the following criteria for adding ch
 
 ### Code Guidelines
 
-There is no minimum criteria for the number of lines of code or number of functions as these are pretty arbitrary and depend on the problem being solved. However, we advise students to use their discretion on how much code at a minimum is feasible to write in a month (the time given to complete the project). Moreover, we are requiring that there be *at least* 3 (not including `__init__.py`). 
+There is no minimum criteria for the number of lines of code or number of functions as these are pretty arbitrary and depend on the problem being solved. However, we advise students to use their discretion on how much code at a minimum is feasible to write in a month (the time given to complete the project). Moreover, we are requiring that there be *at least* 3  modules (not including `__init__.py`). 
